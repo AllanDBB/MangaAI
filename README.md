@@ -1,0 +1,2 @@
+# MangaAI
+AI project 
